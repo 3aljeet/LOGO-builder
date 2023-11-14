@@ -11,6 +11,8 @@ A Node.js command-line application that allows you to generate custom logos as S
 - [Output](#output)
 - [Testing](#testing)
 - [License](#license)
+- [Screenshot](#screenshot)
+- [Repo-link](#repo-link)
 
 ## Description
 
@@ -57,4 +59,8 @@ The application includes unit tests for the shape classes (Circle, Square, and T
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Screenshot
-https://drive.google.com/file/d/1VfcgzChrktmMYtRFNnS7QDZJy4Ool9Hp/view
+https://drive.google.com/file/d/1ZLcavUj575fhXJBT10in-9twagZzIvyJ/view
+
+## Repo-Link
+
+https://github.com/3aljeet/LOGO-builder
